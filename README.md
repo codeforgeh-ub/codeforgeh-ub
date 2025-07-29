@@ -1,16 +1,37 @@
 ## Hi there 👋
 
-<!--
-**codeforgeh-ub/codeforgeh-ub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🛰️ Welcome
 
-Here are some ideas to get you started:
+I'm a freelance **OSINT and reconnaissance specialist** with a strong track record in:
+- Mapping digital infrastructure  
+- Detecting affiliate fraud  
+- Uncovering online identities across platforms and services  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work supports:
+- Security researchers & bug bounty hunters  
+- Privacy-focused organizations  
+- Indie developers  
+- Open-source intelligence investigations  
+
+---
+
+## 🔍 Recon Sample
+
+👇 Check out my **anonymized recon workflow**:
+🔗 [Recon Repository](https://github.com/codeforgeh-ub/Recon)
+
+The repo contains a fully redacted and organized example of how I structure domain, IP, identity, and infrastructure data for OSINT tasks.
+
+---
+
+## 📫 Contact
+
+- 🔐 Keybase: [keybase.io/bytewave_forge](https://keybase.io/bytewave_forge)  
+- 💬 Matrix: [@solvek_trac:matrix.org](https://matrix.to/#/@solvek_trac:matrix.org)  
+- 🧵 Reddit: [u/Lunar_obsidian](https://www.reddit.com/user/Lunar_obsidian)  
+- 📧 Email: `seraveu@proton.me
+
+---
+
+Thanks for stopping by! 🚀
+
